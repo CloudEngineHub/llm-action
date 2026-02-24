@@ -483,6 +483,8 @@ LLM Data Engineering
 - Bloom 大模型解析
 - LLaMA / LLaMA2 大模型解析
 - [DeepSeek 视觉语言大模型技术演进（从DeepSeek VL/VL2到DeepSeek OCR）](https://zhuanlan.zhihu.com/p/1976731060562842519)
+- Qwen3-Next
+
 
 
 
@@ -494,6 +496,10 @@ LLM Data Engineering
 - [云原生向量数据库Milvus（二）-数据与索引的处理流程、索引类型及Schema](https://zhuanlan.zhihu.com/p/477231485)
 - [关于大模型驱动的AI智能体Agent的一些思考](https://zhuanlan.zhihu.com/p/651921120)
 
+
+### Agent应用
+
+- [OpenClaw](https://github.com/openclaw/openclaw)：个人 AI 助手
 
 
 ## [LLM国产化适配](https://github.com/liguodongiot/llm-action/tree/main/docs/llm_localization)
