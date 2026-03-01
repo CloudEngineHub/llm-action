@@ -499,7 +499,18 @@ LLM Data Engineering
 
 ### Agent应用
 
-- [OpenClaw](https://github.com/openclaw/openclaw)：个人 AI 助手
+
+
+AI Assistant:
+
+- [OpenClaw](https://github.com/openclaw/openclaw)：一款个人 AI 助手
+
+
+Code Agent:
+
+- [OpenCode](https://github.com/anomalyco/opencode)：一个开源代码智能体，[项目文档](https://opencode.ai/docs/zh-cn/)
+
+
 
 
 ## [LLM国产化适配](https://github.com/liguodongiot/llm-action/tree/main/docs/llm_localization)
