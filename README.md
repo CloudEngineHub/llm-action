@@ -561,6 +561,8 @@ AI编译器是指将机器学习算法从开发阶段，通过变换和优化算
 - [AI 集群基础设施 NVMe SSD 详解](https://zhuanlan.zhihu.com/p/672098336)
 - [AI 集群基础设施 InfiniBand 详解](https://zhuanlan.zhihu.com/p/673903240)
 - [大模型训练基础设施：算力篇]()
+- [NVIDIA SHARP 技术解析：通过网络内计算提升分布式通信性能](https://zhuanlan.zhihu.com/p/2060851766304970672)
+- [NVIDIA InfiniBand 技术解析及应用](https://zhuanlan.zhihu.com/p/2062280295026529186)
 
 
 ### AI加速卡
